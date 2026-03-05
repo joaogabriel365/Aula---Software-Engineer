@@ -1,4 +1,4 @@
-## Aula 2 - Software Engineer 25/02
+# Aula 2 - Software Engineer 25/02
 
 "Eu trabalho com receitas internacionais e sempre 
 preciso converter temperaturas. Às vezes a receita 
@@ -20,7 +20,7 @@ Preciso de algo rápido que converta nos dois sentidos."
 
 2- O sistema deve ter um layout fácil de usar, com poucos passos para realizar a conversão.
 
-## Aula 3 - Software Engineer 04/03
+# Aula 3 - Software Engineer 04/03
 
 Requisitos GymTrack:
 
