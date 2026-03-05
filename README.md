@@ -40,14 +40,14 @@ RNF02: O sistema deve funcionar nativamente em Android e iOS.
 
 RNF03: O sistema deve ter os dados de saúde e treinos dos alunos devem ser criptografados
 
-# REFLEXÃO:
-# 1. Qual a diferença entre RF e RNF que você percebeu na prática?
+## REFLEXÃO:
+### 1. Qual a diferença entre RF e RNF que você percebeu na prática?
 RF define o que o sistema deve fazer, como por exemplo validar as repetições desse sistema.
 RNF define como o sistema deve funcionar, como desempenho ou tempo de resposta.
 
-# 2. O que aconteceria se esquecêssemos o RNF de performance?
+### 2. O que aconteceria se esquecêssemos o RNF de performance?
 O sistema poderia ficar lento e demorar para registrar os treinos
 
-# 3. Cite 1 RNF que o GymTrack deveria ter mas que você não implementou
+### 3. Cite 1 RNF que o GymTrack deveria ter mas que você não implementou
 Um RNF que poderia existir é disponibilidade,
 garantindo que o sistema esteja funcionando e acessível a qualquer momento.
