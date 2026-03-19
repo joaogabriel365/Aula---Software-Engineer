@@ -74,13 +74,10 @@ garantindo que o sistema esteja funcionando e acessível a qualquer momento.
 
 3. O sistema registra o empréstimo para o leitor
 
-4. O sistema confirma o empréstimo e informa a data de devolução
 
 #### Fluxo de Exceção:
 
 1. Se o livro não estiver disponível, o sistema informa ao leitor que o empréstimo não pode ser realizado
-
-2. Se o leitor tiver pendências (ex: multa), o sistema bloqueia o empréstimo
 
 #### Pós-condições:
 
