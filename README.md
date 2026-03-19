@@ -51,3 +51,5 @@ O sistema poderia ficar lento e demorar para registrar os treinos
 ### 3. Cite 1 RNF que o GymTrack deveria ter mas que você não implementou
 Um RNF que poderia existir é disponibilidade,
 garantindo que o sistema esteja funcionando e acessível a qualquer momento.
+
+# Aula 5 - Software Engineer 18/03
