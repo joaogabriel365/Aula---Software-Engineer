@@ -51,3 +51,38 @@ O sistema poderia ficar lento e demorar para registrar os treinos
 ### 3. Cite 1 RNF que o GymTrack deveria ter mas que você não implementou
 Um RNF que poderia existir é disponibilidade,
 garantindo que o sistema esteja funcionando e acessível a qualquer momento.
+
+# Aula 5 - Software Engineer 18/03
+
+## UC-02: Emprestar Livro
+
+### Ator: Leitor
+
+#### Pré-condições:
+
+1. O leitor deve estar cadastrado no sistema
+
+2. O livro deve existir no sistema
+
+3. O sistema deve estar disponível para operação
+
+#### Fluxo Principal:
+
+1. O leitor solicita o empréstimo de um livro
+
+2. O sistema verifica a disponibilidade do livro
+
+3. O sistema registra o empréstimo para o leitor
+
+
+#### Fluxo de Exceção:
+
+1. Se o livro não estiver disponível, o sistema informa ao leitor que o empréstimo não pode ser realizado
+
+#### Pós-condições:
+
+1. O livro fica registrado como emprestado
+
+2. O empréstimo fica associado ao leitor no sistema
+
+3. Uma data de devolução é definida
