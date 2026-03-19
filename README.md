@@ -54,38 +54,38 @@ garantindo que o sistema esteja funcionando e acessível a qualquer momento.
 
 # Aula 5 - Software Engineer 18/03
 
-UC-02: Emprestar Livro
+## UC-02: Emprestar Livro
 
-Ator: Leitor
+### Ator: Leitor
 
-Pré-condições:
+### Pré-condições:
 
-O leitor deve estar cadastrado no sistema
+1. O leitor deve estar cadastrado no sistema
 
-O livro deve existir no sistema
+2. O livro deve existir no sistema
 
-O sistema deve estar disponível para operação
+3. O sistema deve estar disponível para operação
 
-Fluxo Principal:
+### Fluxo Principal:
 
-O leitor solicita o empréstimo de um livro
+1. O leitor solicita o empréstimo de um livro
 
-O sistema verifica a disponibilidade do livro (<<include>> Verificar disponibilidade)
+2. O sistema verifica a disponibilidade do livro (<<include>> Verificar disponibilidade)
 
-O sistema registra o empréstimo para o leitor
+3. O sistema registra o empréstimo para o leitor
 
-O sistema confirma o empréstimo e informa a data de devolução
+4. O sistema confirma o empréstimo e informa a data de devolução
 
-Fluxo de Exceção:
+### Fluxo de Exceção:
 
-Se o livro não estiver disponível, o sistema informa ao leitor que o empréstimo não pode ser realizado
+1. Se o livro não estiver disponível, o sistema informa ao leitor que o empréstimo não pode ser realizado
 
-Se o leitor tiver pendências (ex: multa), o sistema bloqueia o empréstimo
+2. Se o leitor tiver pendências (ex: multa), o sistema bloqueia o empréstimo
 
-Pós-condições:
+### Pós-condições:
 
-O livro fica registrado como emprestado
+1. O livro fica registrado como emprestado
 
-O empréstimo fica associado ao leitor no sistema
+2. O empréstimo fica associado ao leitor no sistema
 
-Uma data de devolução é definida
+3. Uma data de devolução é definida
