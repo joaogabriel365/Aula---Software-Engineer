@@ -53,3 +53,39 @@ Um RNF que poderia existir é disponibilidade,
 garantindo que o sistema esteja funcionando e acessível a qualquer momento.
 
 # Aula 5 - Software Engineer 18/03
+
+UC-02: Emprestar Livro
+
+Ator: Leitor
+
+Pré-condições:
+
+O leitor deve estar cadastrado no sistema
+
+O livro deve existir no sistema
+
+O sistema deve estar disponível para operação
+
+Fluxo Principal:
+
+O leitor solicita o empréstimo de um livro
+
+O sistema verifica a disponibilidade do livro (<<include>> Verificar disponibilidade)
+
+O sistema registra o empréstimo para o leitor
+
+O sistema confirma o empréstimo e informa a data de devolução
+
+Fluxo de Exceção:
+
+Se o livro não estiver disponível, o sistema informa ao leitor que o empréstimo não pode ser realizado
+
+Se o leitor tiver pendências (ex: multa), o sistema bloqueia o empréstimo
+
+Pós-condições:
+
+O livro fica registrado como emprestado
+
+O empréstimo fica associado ao leitor no sistema
+
+Uma data de devolução é definida
