@@ -70,7 +70,7 @@ garantindo que o sistema esteja funcionando e acessível a qualquer momento.
 
 1. O leitor solicita o empréstimo de um livro
 
-2. O sistema verifica a disponibilidade do livro (<<include>> Verificar disponibilidade)
+2. O sistema verifica a disponibilidade do livro
 
 3. O sistema registra o empréstimo para o leitor
 
