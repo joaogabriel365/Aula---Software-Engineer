@@ -58,7 +58,7 @@ garantindo que o sistema esteja funcionando e acessível a qualquer momento.
 
 ### Ator: Leitor
 
-### Pré-condições:
+#### Pré-condições:
 
 1. O leitor deve estar cadastrado no sistema
 
@@ -66,7 +66,7 @@ garantindo que o sistema esteja funcionando e acessível a qualquer momento.
 
 3. O sistema deve estar disponível para operação
 
-### Fluxo Principal:
+#### Fluxo Principal:
 
 1. O leitor solicita o empréstimo de um livro
 
@@ -76,13 +76,13 @@ garantindo que o sistema esteja funcionando e acessível a qualquer momento.
 
 4. O sistema confirma o empréstimo e informa a data de devolução
 
-### Fluxo de Exceção:
+#### Fluxo de Exceção:
 
 1. Se o livro não estiver disponível, o sistema informa ao leitor que o empréstimo não pode ser realizado
 
 2. Se o leitor tiver pendências (ex: multa), o sistema bloqueia o empréstimo
 
-### Pós-condições:
+#### Pós-condições:
 
 1. O livro fica registrado como emprestado
 
