@@ -86,3 +86,9 @@ garantindo que o sistema esteja funcionando e acessível a qualquer momento.
 2. O empréstimo fica associado ao leitor no sistema
 
 3. Uma data de devolução é definida
+
+# Aula 6 - Software Engineer 25/03
+
+### Diagrama de Atividades
+
+
