@@ -89,7 +89,7 @@ garantindo que o sistema esteja funcionando e acessível a qualquer momento.
 
 # Aula 6 - Software Engineer 25/03
 
-### Diagrama de Atividades
+### Diagrama de Atividades:
 
 ![Diagrama de Atividades](img/3b362679-f03f-4d15-840e-051d50a1e3fe.jpg)
 
