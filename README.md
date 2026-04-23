@@ -93,4 +93,10 @@ garantindo que o sistema esteja funcionando e acessível a qualquer momento.
 
 ![Diagrama de Atividades](img/3b362679-f03f-4d15-840e-051d50a1e3fe.jpg)
 
+# Aula 7 - Software Engineer 08/04
+
+### Fluxograma:
+
+![Diagrama Aula7](img/Miro-Aula7.jpeg)
+
 
