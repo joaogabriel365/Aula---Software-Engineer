@@ -99,4 +99,21 @@ garantindo que o sistema esteja funcionando e acessível a qualquer momento.
 
 ![Diagrama Aula7](img/Miro-Aula7.jpeg)
 
+# Aula 8 - Software Engineer 15/04
+
+### Diagrama Miro:
+![Diagrama Aula8](img/diagrama%20aula8.jpeg)
+
+### Perguntas chaves:
+
+1. Se a Plataforma fechar, o Catálogo some?
+Sim, O Catálogo é uma lista de exibição organizada pela empresa, ou seja, sem a plataforma para mantê-lo, ele deixa de existir.
+
+Decisão: Composição (◆). O catálogo não existe sem a plataforma.
+
+2. E os Filmes?
+Não, os filmes são obras independentes, eles podem sair da Netflix e ir para o Prime Video, por exemplo. Eles continuam existindo nos servidores ou com as produtoras.
+
+Decisão: Agregação (◇). O Filme existe sem o Catálogo.
+
 
